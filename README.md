@@ -34,6 +34,11 @@ The dashboard includes interactive filters to analyze employee data based on:
 - Data Visualization
 - Data Analytics
 
+## 🖥️ Dashboard Preview
+
+![Employee Performance Dashboard](./Dashboard3%20Screenshot.png)
+
+
 ## 📈 Dashboard Insights
 
 This dashboard helps HR professionals and management teams to:
@@ -45,14 +50,7 @@ This dashboard helps HR professionals and management teams to:
 - Track employee hiring and joining trends.
 - Make data-driven HR and business decisions.
 
-## 🖥️ Dashboard Preview
-
-![Employee Performance Dashboard](./Dashboard3%20Screenshot.png)
-
 ## 👨‍💻 Project Purpose
 
 The main objective of this project is to transform raw employee data into meaningful insights using Power BI and create an interactive HR analytics solution that supports better workforce planning and decision-making.
 
----
-
-⭐ **If you find this project useful, don't forget to give it a star!**
